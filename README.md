@@ -1,6 +1,6 @@
 <div align="center">
 <br />
-    <a href="https://frugalcodes.github.io/Trestour-App-LandingPage/" target="_blank">
+    <a href="https://trestour-v1.vercel.app/" target="_blank">
       <img src="./public/readme-image.png" alt="Project Banner">
     </a>
   <br />
@@ -13,7 +13,7 @@
   <h3 align="center">Trestour Travel Website</h3>
 
    <div align="center">
-     Preview this project: <a href="https://frugalcodes.github.io/Trestour-App-LandingPage/" target="_blank"><b>Trestour</b></a> 
+     Preview this project: <a href="https://trestour-v1.vercel.app/" target="_blank"><b>Trestour</b></a> 
     </div>
 </div>
 
